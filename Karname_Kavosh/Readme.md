@@ -41,7 +41,7 @@
  ┣ 📄 xlsx.full.min.js                 # کتابخانه خروجی اکسل (آفلاین)
  ┣ 📄 Sahel-font-face.css              # فونت ساحل (آفلاین)
  ┣ 📄 Vazirmatn-font-face.css          # فونت وزیرمتن (آفلاین)
- ┗ 📄 Backup_Karnameh_yyyy_mm_dd.json  # فایل پشتیبان(تست)
+ ┗ 📄 Backup_Karnameh_yyyy_mm_dd.json  # فایل پشتیبان (تست)
 ```
 
 ۳. فایل `Karnameh.html` را در مرورگر باز کنید. (برنامه بدون نیاز به اینترنت کار خواهد کرد).
